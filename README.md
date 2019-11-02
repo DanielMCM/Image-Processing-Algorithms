@@ -1,2 +1,2 @@
 # Image-Processing-Algorithms
-Box Filter, Prewitt edge detector, Otsu method, Thinning
+Python implementation of Box Filter, Prewitt edge detector, Otsu method, Thinning
